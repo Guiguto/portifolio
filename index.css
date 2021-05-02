@@ -1,0 +1,53 @@
+.btn{
+ font-family: arial;
+ font-size: 14px;
+ font-weight: 700;
+ border: none;
+ padding:10px;
+ cursor: pointer;
+
+}
+
+.btn-header{
+    background:#6292db ;
+    box-shadow: 0 5px 0 #041a3c;
+    color:#fff;
+    
+}
+
+.btn-header:hover{
+    background:#041a3c ;
+    box-shadow: 0 5px 0 #041a3c;
+    
+}
+
+.btn-header:active{
+    position: relative;
+    top:3px;
+    box-shadow: none;
+}
+
+.btn-sobre{
+    position: relative;
+    top: 30px;
+    left: 550px;
+}
+
+.btn-contato{
+    position: relative;
+    top: 30px;
+    left: 450px;
+}
+
+.btn-projetos{
+    position: relative;
+    top: 30px;
+    left: 650px;
+}
+
+header{
+    background-color: #0b4bac;
+    color: #fff;
+    height:  180px;
+    width:  100%;
+}
